@@ -4,13 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>prenota un tavolo</title>
+    
+</head>
+<body>
     <?php
         if(isset($_POST["prenota"])){
             echo "<h2> prenotazione avvenuta con successo <h2>";
         }
     ?>
-</head>
-<body>
     <form action="prenotazione.php" method="POST">
 
         <label for="nome_cognome_in"> nome e cognome: </label>
