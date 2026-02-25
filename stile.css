@@ -1,0 +1,31 @@
+body {
+  background-color: #323540;
+  font-family: 'LiltaOne', 'LiltaOne', sans-serif;
+  color: white;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+.loginForm{
+
+    background-color: #3160EF;
+    color: #FFFFFF;
+    padding: 40px;
+    border-radius: 16px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    width: 250px;
+    height: 30%;
+    max-width: 90%;
+
+}
+
+.loginForm p {
+
+    color: #082783;
+    text-decoration: underline;
+    cursor: pointer;
+    font-weight: 600;
+    
+
+
+}
