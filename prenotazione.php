@@ -23,7 +23,7 @@
         <br>
 
         <label for="posti_in"> numero di persone: </label>
-        <input type="number" id="postir_in" name="posti_in">
+        <input type="number" id="posti_in" name="posti_in">
         <br>
 
         <label for="data_in"> data: </label>
